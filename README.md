@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RafiAhamed07&label=Profile%20views&color=green&style=flat" alt="rafiahamed" /> </p>
 
-- 👨‍💻 My project portfolio [https://rafiahamed.netlify.app/](https://rafiahamed.netlify.app/)
+- 👨‍💻 My portfolio [https://rafiahamed.netlify.app/](https://rafiahamed.netlify.app/)
 
 - 📫 How to reach me **fidaahamed15@gmail.com**
 
