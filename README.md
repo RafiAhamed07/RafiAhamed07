@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @RafiAhamed</h1>
-<h3 align="center">I'm a passionate Engineer Student with a keen interest in AI. My journey in the world of technology began 3 years ago, and I've been on an exciting adventure ever since.</h3>
+<h3 align="center">I'm a passionate Engineer Student with a keen interest in AI. My journey in the world of technology began 4 years ago, and I've been on an exciting adventure ever since.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RafiAhamed07&label=Profile%20views&color=green&style=flat" alt="rafiahamed" /> </p>
 
