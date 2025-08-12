@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fidaahamed15@gmail.com**
 
-- 📄 My Resume: [Rafi's Resume](https://docs.google.com/document/d/1iRvfIT0DkHEd6O1ziuCoeVk-bbdjniWQijzTtOWGjqU/edit)
+- 📄 My Resume: [Rafi's Resume](https://drive.google.com/file/d/1SMmp7A1khZwZlQXauc62LvAVphfpWoyn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
