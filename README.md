@@ -22,7 +22,7 @@ driven by an obsession with AI, Machine Learning, and building intelligent softw
 From my first lines of C to training deep learning models — every step has been a step forward.
 
 - 🌐 Portfolio: [rafiahamed.netlify.app](https://rafiahamed.netlify.app/)
-- 📄 Resume: [View PDF]([https://drive.google.com/file/d/1SMmp7A1khZwZlQXauc62LvAVphfpWoyn/view?usp=sharing](https://drive.google.com/file/d/1ZbZGsxO8YKZEkodfuBTGB81izYH24h72/))
+- 📄 Resume: [View PDF]([https://drive.google.com/file/d/1SMmp7A1khZwZlQXauc62LvAVphfpWoyn/view?usp=sharing](https://drive.google.com/file/d/1ZbZGsxO8YKZEkodfuBTGB81izYH24h72/)
 - 📫 Email: fidaahamed15@gmail.com
 - 🏆 Competitive programmer — Codeforces & HackerRank
 - 💡 Always building, always learning
